@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  
+spring:
+  data:
+    cassandra:
+      keyspace-name: demo
+      port: 9042
+      username: cassandra
+      password: cassandra

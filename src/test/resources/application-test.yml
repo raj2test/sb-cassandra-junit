@@ -1,0 +1,5 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: demo
+      port: 9142
